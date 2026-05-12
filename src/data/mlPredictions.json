@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "model": "RandomForestRegressor",
+    "mae": 139.9956983939378,
+    "simulated_conditions": {
+      "day_of_week": "Wednesday",
+      "weather": "Clear"
+    }
+  },
+  "forecast": {
+    "1-3": {
+      "morning": 2865,
+      "afternoon": 1472,
+      "evening": 2723,
+      "night": 815
+    },
+    "1-8": {
+      "morning": 2297,
+      "afternoon": 1159,
+      "evening": 2204,
+      "night": 610
+    },
+    "2-3": {
+      "morning": 2722,
+      "afternoon": 1363,
+      "evening": 2495,
+      "night": 701
+    },
+    "2-5": {
+      "morning": 3017,
+      "afternoon": 1592,
+      "evening": 2934,
+      "night": 638
+    },
+    "3-5": {
+      "morning": 3135,
+      "afternoon": 1657,
+      "evening": 3200,
+      "night": 818
+    },
+    "3-6": {
+      "morning": 1796,
+      "afternoon": 1326,
+      "evening": 1880,
+      "night": 507
+    },
+    "3-9": {
+      "morning": 2483,
+      "afternoon": 1269,
+      "evening": 2227,
+      "night": 554
+    },
+    "3-10": {
+      "morning": 2369,
+      "afternoon": 1188,
+      "evening": 2075,
+      "night": 516
+    },
+    "4-2": {
+      "morning": 3385,
+      "afternoon": 1771,
+      "evening": 3305,
+      "night": 767
+    },
+    "4-14": {
+      "morning": 2866,
+      "afternoon": 1585,
+      "evening": 2595,
+      "night": 567
+    },
+    "5-11": {
+      "morning": 2901,
+      "afternoon": 1511,
+      "evening": 2802,
+      "night": 647
+    },
+    "6-9": {
+      "morning": 1792,
+      "afternoon": 1264,
+      "evening": 1748,
+      "night": 449
+    },
+    "7-8": {
+      "morning": 3027,
+      "afternoon": 1683,
+      "evening": 3061,
+      "night": 701
+    },
+    "7-15": {
+      "morning": 2966,
+      "afternoon": 1456,
+      "evening": 2594,
+      "night": 572
+    },
+    "8-10": {
+      "morning": 2105,
+      "afternoon": 1129,
+      "evening": 1849,
+      "night": 434
+    },
+    "8-12": {
+      "morning": 2498,
+      "afternoon": 1287,
+      "evening": 2303,
+      "night": 501
+    },
+    "9-10": {
+      "morning": 1790,
+      "afternoon": 1125,
+      "evening": 1682,
+      "night": 402
+    },
+    "10-11": {
+      "morning": 2347,
+      "afternoon": 1343,
+      "evening": 2004,
+      "night": 493
+    },
+    "11-F2": {
+      "morning": 2081,
+      "afternoon": 1201,
+      "evening": 2047,
+      "night": 471
+    },
+    "12-1": {
+      "morning": 2673,
+      "afternoon": 1467,
+      "evening": 2521,
+      "night": 600
+    },
+    "13-4": {
+      "morning": 3706,
+      "afternoon": 1986,
+      "evening": 3439,
+      "night": 875
+    },
+    "14-13": {
+      "morning": 3643,
+      "afternoon": 1962,
+      "evening": 3218,
+      "night": 778
+    },
+    "15-7": {
+      "morning": 2772,
+      "afternoon": 1541,
+      "evening": 2556,
+      "night": 596
+    },
+    "F1-5": {
+      "morning": 3081,
+      "afternoon": 2203,
+      "evening": 3077,
+      "night": 1277
+    },
+    "F1-2": {
+      "morning": 3024,
+      "afternoon": 1889,
+      "evening": 2736,
+      "night": 1032
+    },
+    "F2-3": {
+      "morning": 1994,
+      "afternoon": 1661,
+      "evening": 1836,
+      "night": 897
+    },
+    "F7-15": {
+      "morning": 2657,
+      "afternoon": 1462,
+      "evening": 2239,
+      "night": 519
+    },
+    "F8-4": {
+      "morning": 2705,
+      "afternoon": 1638,
+      "evening": 2600,
+      "night": 614
+    }
+  }
+}
